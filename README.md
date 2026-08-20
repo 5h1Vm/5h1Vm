@@ -20,18 +20,18 @@ Security Engineer & Researcher focused on **SOC/IR, DFIR, AppSec, and Security A
 
 - **[HonestBackup](https://gitlab.com/5h1Vm/HonestBackup):** 3-2-1-1-0 ransomware-resistant SaaS backup engine (M365, Notion, Cloudflare on Azure). Age-encryption + SHA-256 ledger + Graph delta tokens.
 - **[SusCheck](https://gitlab.com/5h1Vm/SusCheck):** Pre-execution SAST & threat-intel triage orchestrator (Semgrep, Bandit, Checkov, Gitleaks, VirusTotal, AbuseIPDB).
+- **[Chisel](https://gitlab.com/5h1Vm/Chisel):** Ultra-fast multi-format forensic file carver written in C++17 with real-time TUI for disk images & memory dumps.
 - **[Transport-ERP](https://gitlab.com/5h1Vm/Transport-ERP):** Fleet logistics & transport accounting ERP (Next.js, FastAPI, PostgreSQL).
 - **[VolatileAI](https://gitlab.com/5h1Vm/VolatileAI):** Automated memory dump forensics & artifact analysis using Volatility3 + AI triage.
 - **[windows-cleaner-utility](https://gitlab.com/5h1Vm/windows-cleaner-utility):** Automated Windows system, cache, shader, and DISM component cleanup batch utility.
 - **[chemical-ai](https://gitlab.com/5h1Vm/chemical-ai):** Deep learning molecular hazard & chemical structure classifier.
 - **[memdmp-chal-Razzify](https://gitlab.com/5h1Vm/memdmp-chal-Razzify):** Memory dump forensic CTF challenge infrastructure.
-- **[Chisel](https://gitlab.com/5h1Vm/Chisel):** Fast TCP/UDP tunnel over HTTP secured via SSH.
 
 ---
 
 ## ⚡ Technical Stack
 
-- **Languages:** Python, Bash, PowerShell, C/C++, JavaScript, SQL
+- **Languages:** Python, C/C++ (C++17), Bash, PowerShell, JavaScript, SQL
 - **SecOps & DFIR:** SIEM, Volatility, FTK, Ghidra, Wireshark, MITRE ATT&CK
 - **Offensive & AppSec:** Burp Suite, Nmap, Nessus, Nuclei, Semgrep, APK Analysis
 - **Cloud & Infra:** Azure, AWS, M365/Entra ID, Docker, Cloudflare Zero Trust, Linux
