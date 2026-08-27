@@ -16,48 +16,25 @@ Security Engineer & Researcher focused on **Security Automation, SOC/IR, DFIR, a
 
 ---
 
-## 🛡️ Selected Projects
+## 🛠️ Projects
 
-### 🔒 [HonestBackup](https://gitlab.com/5h1Vm/HonestBackup)
-*Encrypted SaaS Backup & Retention Platform | Python, Azure, Docker*
-- Production 3-2-1-1-0 ransomware-resistant backup platform for Microsoft 365, Cloudflare, and Notion.
-- Uses age-encryption with SHA-256 ledger verification and Graph API delta tokens.
-
-### 🔍 [SusCheck](https://gitlab.com/5h1Vm/SusCheck)
-*Pre-Execution Security Orchestration Engine | Python, CI/CD, Threat Intel*
-- Automated pre-flight security scanner combining Semgrep, Bandit, Checkov, Gitleaks, VirusTotal, and AbuseIPDB.
-- Correlates multi-scanner findings into a unified Risk Index with AI-assisted triage.
-
-### 🌐 [Celestial](https://gitlab.com/5h1Vm/celestial-extension)
-*Agentic AI Browser Automation Extension | JavaScript, Chrome Manifest V3*
-- Provider-agnostic browser assistant supporting local models (Ollama/vLLM) and cloud LLM APIs.
-- Automates DOM traversal, multi-tab execution, and workflow orchestration via Chrome Debugger APIs.
-
-### 🧠 [VolatileAI](https://gitlab.com/5h1Vm/VolatileAI)
-*Automated Memory Forensics & Malware Triage | Python, Volatility3*
-- Automated memory dump forensic pipeline integrating Volatility3 artifacts with AI classification for rapid incident triage.
-
-### 🚛 [Transport-ERP](https://gitlab.com/5h1Vm/Transport-ERP)
-*Enterprise Fleet & Transport Management ERP | Python, Next.js, PostgreSQL*
-- Full-stack transport logistics ERP handling trip lifecycle, audit logging, and P&L financial reconciliation.
-
-### 🧹 [Windows Cleaner Utility](https://gitlab.com/5h1Vm/windows-cleaner-utility)
-*System Cache & Maintenance Automation | Batch*
-- Deep cleanup tool for Windows 10/11: clears system/browser/GPU caches, rebuilds font cache, and runs DISM component maintenance.
-
-### 🎯 [memdmp-chal-Razzify](https://gitlab.com/5h1Vm/memdmp-chal-Razzify)
-*Forensics CTF Challenge Infrastructure | Volatility, Linux/Windows Forensics*
-- Custom forensic memory dump challenges designed for national CTF competitions.
+- **[HonestBackup](https://gitlab.com/5h1Vm/HonestBackup):** 3-2-1-1-0 ransomware-resistant SaaS backup platform for Microsoft 365, Notion, and Cloudflare on Azure.
+- **[SusCheck](https://gitlab.com/5h1Vm/SusCheck):** Pre-execution SAST and threat intelligence triage engine.
+- **[Celestial](https://gitlab.com/5h1Vm/celestial-extension):** Agentic AI browser automation Chrome extension supporting local and cloud LLMs.
+- **[VolatileAI](https://gitlab.com/5h1Vm/VolatileAI):** Automated memory forensics and malware artifact triage using Volatility3.
+- **[Transport-ERP](https://gitlab.com/5h1Vm/Transport-ERP):** Fleet logistics, trip tracking, and transport accounting ERP platform.
+- **[windows-cleaner-utility](https://gitlab.com/5h1Vm/windows-cleaner-utility):** Automated Windows system, cache, GPU shader, and maintenance cleanup utility.
+- **[chemical-ai](https://gitlab.com/5h1Vm/chemical-ai):** Deep learning molecular hazard and chemical structure classifier.
 
 ---
 
-## ⚡ Technical Arsenal
+## ⚡ Tech Stack
 
-- **Programming & Scripting:** Python, Bash, PowerShell, C, C++, JavaScript, Node.js, SQL, REST APIs
-- **SecOps & DFIR:** SIEM, Log Analysis, Threat Hunting, Volatility, FTK, Ghidra, Wireshark, MITRE ATT&CK
-- **Offensive & AppSec:** Burp Suite, Nmap, Nessus, Nuclei, Semgrep, APK Analysis, SAST
-- **Cloud & Infra:** Azure, AWS, M365/Entra ID, Docker, Kubernetes, Cloudflare Zero Trust, Linux
+- **Languages:** Python, Bash, PowerShell, C, C++, JavaScript, SQL
+- **SecOps & DFIR:** SIEM, Volatility, FTK, Ghidra, Wireshark, MITRE ATT&CK
+- **Offensive & AppSec:** Burp Suite, Nmap, Nessus, Nuclei, Semgrep, SAST
+- **Cloud & Infra:** Azure, AWS, M365/Entra ID, Docker, Cloudflare Zero Trust, Linux
 
 ---
 
-📫 **Connect:** [contact5h1vm@gmail.com](mailto:contact5h1vm@gmail.com) | [LinkedIn](https://linkedin.com/in/5h1vm)
+📫 **Contact:** [contact5h1vm@gmail.com](mailto:contact5h1vm@gmail.com) | [LinkedIn](https://linkedin.com/in/5h1vm)
