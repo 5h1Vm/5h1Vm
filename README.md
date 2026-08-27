@@ -4,38 +4,60 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5h1vm-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/5h1vm)
 [![Email](https://img.shields.io/badge/Email-contact5h1vm%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact5h1vm@gmail.com)
 
-Security Engineer & Researcher focused on **SOC/IR, DFIR, AppSec, and Security Automation**.
+Security Engineer & Researcher focused on **Security Automation, SOC/IR, DFIR, and AppSec**.
 
 ---
 
 ### ⚠️ Note on GitHub Migration
 
-> **GitHub suspended my 10-year-old account (`5h1Vm`) with zero warning, explanation, or cause.**  
+> **GitHub suspended my 10-year-old account (`5h1Vm`) with zero prior notice, explanation, or cause.**  
 > Flags were triggered by benign CTF challenge artifacts and dual-use security tools.  
 > **All repositories, commit histories, and codebases were restored via local backups and are permanently hosted here.**
 
 ---
 
-## 🛠️ Flagship Tooling
+## 🛡️ Selected Projects
 
-- **[HonestBackup](https://gitlab.com/5h1Vm/HonestBackup):** 3-2-1-1-0 ransomware-resistant SaaS backup engine (M365, Notion, Cloudflare on Azure). Age-encryption + SHA-256 ledger + Graph delta tokens.
-- **[SusCheck](https://gitlab.com/5h1Vm/SusCheck):** Pre-execution SAST & threat-intel triage orchestrator (Semgrep, Bandit, Checkov, Gitleaks, VirusTotal, AbuseIPDB).
-- **[Chisel](https://gitlab.com/5h1Vm/Chisel):** Ultra-fast multi-format forensic file carver written in C++17 with real-time TUI for disk images & memory dumps.
-- **[Transport-ERP](https://gitlab.com/5h1Vm/Transport-ERP):** Fleet logistics & transport accounting ERP (Next.js, FastAPI, PostgreSQL).
-- **[VolatileAI](https://gitlab.com/5h1Vm/VolatileAI):** Automated memory dump forensics & artifact analysis using Volatility3 + AI triage.
-- **[windows-cleaner-utility](https://gitlab.com/5h1Vm/windows-cleaner-utility):** Automated Windows system, cache, shader, and DISM component cleanup batch utility.
-- **[chemical-ai](https://gitlab.com/5h1Vm/chemical-ai):** Deep learning molecular hazard & chemical structure classifier.
-- **[memdmp-chal-Razzify](https://gitlab.com/5h1Vm/memdmp-chal-Razzify):** Memory dump forensic CTF challenge infrastructure.
+### 🔒 [HonestBackup](https://gitlab.com/5h1Vm/HonestBackup)
+*Encrypted SaaS Backup & Retention Platform | Python, Azure, Docker*
+- Production 3-2-1-1-0 ransomware-resistant backup platform for Microsoft 365, Cloudflare, and Notion.
+- Uses age-encryption with SHA-256 ledger verification and Graph API delta tokens.
+
+### 🔍 [SusCheck](https://gitlab.com/5h1Vm/SusCheck)
+*Pre-Execution Security Orchestration Engine | Python, CI/CD, Threat Intel*
+- Automated pre-flight security scanner combining Semgrep, Bandit, Checkov, Gitleaks, VirusTotal, and AbuseIPDB.
+- Correlates multi-scanner findings into a unified Risk Index with AI-assisted triage.
+
+### 🌐 [Celestial](https://gitlab.com/5h1Vm/celestial-extension)
+*Agentic AI Browser Automation Extension | JavaScript, Chrome Manifest V3*
+- Provider-agnostic browser assistant supporting local models (Ollama/vLLM) and cloud LLM APIs.
+- Automates DOM traversal, multi-tab execution, and workflow orchestration via Chrome Debugger APIs.
+
+### 🧠 [VolatileAI](https://gitlab.com/5h1Vm/VolatileAI)
+*Automated Memory Forensics & Malware Triage | Python, Volatility3*
+- Automated memory dump forensic pipeline integrating Volatility3 artifacts with AI classification for rapid incident triage.
+
+### 🚛 [Transport-ERP](https://gitlab.com/5h1Vm/Transport-ERP)
+*Enterprise Fleet & Transport Management ERP | Python, Next.js, PostgreSQL*
+- Full-stack transport logistics ERP handling trip lifecycle, audit logging, and P&L financial reconciliation.
+
+### 🧹 [Windows Cleaner Utility](https://gitlab.com/5h1Vm/windows-cleaner-utility)
+*System Cache & Maintenance Automation | Batch*
+- Deep cleanup tool for Windows 10/11: clears system/browser/GPU caches, rebuilds font cache, and runs DISM component maintenance.
+
+### 🎯 [memdmp-chal-Razzify](https://gitlab.com/5h1Vm/memdmp-chal-Razzify)
+*Forensics CTF Challenge Infrastructure | Volatility, Linux/Windows Forensics*
+- Custom forensic memory dump challenges designed for national CTF competitions.
 
 ---
 
-## ⚡ Technical Stack
+## ⚡ Technical Arsenal
 
-- **Languages:** Python, C/C++ (C++17), Bash, PowerShell, JavaScript, SQL
-- **SecOps & DFIR:** SIEM, Volatility, FTK, Ghidra, Wireshark, MITRE ATT&CK
-- **Offensive & AppSec:** Burp Suite, Nmap, Nessus, Nuclei, Semgrep, APK Analysis
-- **Cloud & Infra:** Azure, AWS, M365/Entra ID, Docker, Cloudflare Zero Trust, Linux
+- **Programming & Scripting:** Python, Bash, PowerShell, C, C++, JavaScript, Node.js, SQL, REST APIs
+- **SecOps & DFIR:** SIEM, Log Analysis, Threat Hunting, Volatility, FTK, Ghidra, Wireshark, MITRE ATT&CK
+- **Offensive & AppSec:** Burp Suite, Nmap, Nessus, Nuclei, Semgrep, APK Analysis, SAST
+- **Cloud & Infra:** Azure, AWS, M365/Entra ID, Docker, Kubernetes, Cloudflare Zero Trust, Linux
 
 ---
 
-📫 **Contact:** [contact5h1vm@gmail.com](mailto:contact5h1vm@gmail.com) | [LinkedIn](https://linkedin.com/in/5h1vm)
+📫 **Connect:** [contact5h1vm@gmail.com](mailto:contact5h1vm@gmail.com) | [LinkedIn](https://linkedin.com/in/5h1vm)
