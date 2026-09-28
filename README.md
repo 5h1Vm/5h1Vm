@@ -1,11 +1,18 @@
 # 5h1Vm
 
-[![GitHub](https://img.shields.io/badge/GitHub-5h1Vm-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/5h1Vm)
 [![GitLab](https://img.shields.io/badge/GitLab-5h1Vm-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/5h1Vm)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5h1vm-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/5h1vm)
 [![Email](https://img.shields.io/badge/Email-contact5h1vm%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:contact5h1vm@gmail.com)
 
 Security Engineer & Researcher focused on **Security Automation, SOC/IR, DFIR, and AppSec**.
+
+---
+
+### ⚠️ Note on GitHub Migration
+
+> **GitHub suspended my 10-year-old account (`5h1Vm`) with zero prior notice, explanation, or cause.**  
+> Flags were triggered by benign CTF challenge artifacts and dual-use security tools.  
+> **All repositories, commit histories, and codebases were restored via local backups and are permanently hosted here.**
 
 ---
 
