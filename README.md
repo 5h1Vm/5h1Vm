@@ -1,29 +1,33 @@
-# Shivam Kumar Singh
+# 5h1Vm
 
-Cybersecurity student building practical security automation, cloud-security and DFIR tooling.
+Started with Discord bots, random utilities, and breaking things until they worked.
+Now I build security tools, cloud systems, browser automation, AI experiments,
+and the occasional freelance project.
 
-**Seeking cybersecurity, cloud-security, application-security, security-automation and technical AI roles from December 2026 / January 2027.**
+I enjoy turning annoying, repetitive problems into something that runs itself.
 
-[LinkedIn](https://linkedin.com/in/5h1vm) · [Portfolio](https://5h1vm.github.io) · [Email](mailto:contact5h1vm@gmail.com)
+## A few things from the workshop
 
-## Selected work
+- [HonestBackup](https://github.com/5h1Vm/honest-backup) —
+  encrypted backups for Microsoft 365, Cloudflare and Notion.
 
-| Project | What it demonstrates |
-| --- | --- |
-| [HonestBackup](https://github.com/5h1Vm/honest-backup) | Encrypted Microsoft 365, Cloudflare and Notion backup platform with integrity verification and retention controls. |
-| [SusCheck](https://github.com/5h1Vm/suscheck) | Pre-execution security checks for code, infrastructure, secrets and supply-chain risk. |
-| [VolatileAI](https://github.com/5h1Vm/VolatileAI) | Windows memory-forensics workspace combining Volatility 3, detection heuristics, MITRE ATT&CK context and reporting. |
-| [Secure-Pipe](https://github.com/5h1Vm/Secure-Pipe) | Security scanning workflow for repositories, packages, web targets and MCP servers. |
+- [SusCheck](https://github.com/5h1Vm/suscheck) —
+  checks code, packages and infrastructure before they get too comfortable.
 
-## Focus
+- [VolatileAI](https://github.com/5h1Vm/VolatileAI) —
+  a memory-forensics workspace built around Volatility, MITRE ATT&CK and reports.
 
-- Security automation: Python, Bash, PowerShell, CI/CD, Docker
-- Cloud security: Azure, Microsoft 365, Entra ID, Cloudflare Zero Trust, AWS
-- Detection and DFIR: SIEM triage, log analysis, Volatility, Wireshark, MITRE ATT&CK
-- Application security: secure code review, Semgrep, Bandit, Gitleaks, Burp Suite, Nmap
+- Transport ERP — freelance work for keeping trips, operations and accounting
+  from becoming a spreadsheet crime scene.
 
-## Background
+- Celestial — a browser automation extension for local and cloud models.
+  Still private while it grows up.
 
-B.Tech-M.Tech (Integrated), Computer Science Engineering (Cyber Security) at the National Forensic Sciences University, graduating May 2027. I have worked in SOC operations, digital forensics, and security systems automation.
+- Crackbot — security research, tools and writeups with friends from the community.
 
-Contact: [contact5h1vm@gmail.com](mailto:contact5h1vm@gmail.com)
+There is more scattered through the repositories: some polished, some chaotic,
+some held together by caffeine and stubbornness.
+
+[LinkedIn](https://linkedin.com/in/5h1vm) ·
+[GitLab](https://gitlab.com/5h1Vm) ·
+[contact5h1vm@gmail.com](mailto:contact5h1vm@gmail.com)
