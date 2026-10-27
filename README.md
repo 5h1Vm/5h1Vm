@@ -1,45 +1,30 @@
-# 5h1Vm
+# 5h1Vm // Shivam
 
-Cybersecurity student at NFSU focused on practical security tooling, cloud infrastructure, and automation. I build tools that help surface risk earlier, make investigations easier, and reduce repetitive operational work.
+Started out writing Telegram and Discord bots, mischievous scripts, automation, and trying new things. Over time, that turned into building real systems across security engineering, cloud infrastructure, and now AI.
 
-## 🛠️ On my workbench
+I like taking things apart, seeing what can go wrong, then making them go wrong hah. Also Automation yea yea....
 
-- 🤖 **Agentic AI & Browser Automation:** Building privacy-minded browser extensions and multi-tab workflows; exploring local LLM runtimes (Ollama, vLLM) and hosted inference APIs such as NVIDIA NIM.
-- 🛡️ **AI & Pre-Execution Security:** Developing tools for code and package security checks, MCP server risk assessment, and prompt-injection testing before execution or integration.
-- ☁️ **Cloud & Infrastructure Defense:** Building encrypted, hash-verified backup workflows for Microsoft 365, Cloudflare, and Notion, alongside infrastructure and security automation.
-- 🔌 **Hardware & CTFs:** CTF challenge development, hardware badge soldering, and hands-on cybersecurity community events.
-
-## 🔎 Selected projects
-
-- **[HonestBackup](https://github.com/5h1Vm/honest-backup)** — encrypted, verifiable backup tooling for Microsoft 365, Cloudflare, and Notion.
-- **[SusCheck](https://github.com/5h1Vm/suscheck)** — pre-execution auditing for code, packages, infrastructure, and supply-chain risk.
-- **[SecurePipe](https://github.com/5h1Vm/Secure-Pipe)** — security scanning for repositories, web applications, packages, and MCP servers.
-- **[VolatileAI](https://github.com/5h1Vm/VolatileAI)** — AI-assisted memory forensics with Volatility, MITRE ATT&CK context, and investigation reports.
-- **[Transport ERP](https://github.com/5h1Vm/Transport-ERP)** — freelance software work for transport operations and accounting workflows.
-- **Crackbot** — community-driven security research, tools, and write-ups.
-
-## 💡 Quick specs
-
-```yaml
-core_stack:
-  - Python
-  - Bash
-  - JavaScript/TypeScript
-  - C
-  - Linux
-  - Docker
-
-focus_areas:
-  - Security Automation
-  - Agentic AI
-  - Application Security
-  - Cloud Security
-  - Hardware/IoT
-
-rule_of_thumb: "If it has to be done twice, automate it."
-offline_status: "CTFs, soldering badges, or debugging what I just broke."
+```bash
+$ whoami
+builder · security engineer · habitual hobbyist · serial automator 
 ```
 
-[LinkedIn](https://linkedin.com/in/5h1vm) ·
-[GitLab](https://gitlab.com/5h1Vm) ·
-[Email](mailto:contact5h1vm@gmail.com)
+## ⚒️ On the workbench
+
+- **Browser & AI tools** — Building extensions that automate multi-tab workflows running using local models on my own machine, and seeing what happens when you give agents browser access. like comet browser but your own api key
+- **Security tooling** — Writing scanners to check code and packages before running them, messing with MCP servers, tryna keep myself safe form this ai spam.
+- **Infra & Backups** — Automated backups that stay locked down against ransomware, and scripts that handle log triage so I don't have to do it by hand.
+- **Hardware & CTFs** — Soldering custom badges, poking at microcontrollers, and cooking up CTF challenges when I get the time.
+
+## 🪄 Quick Specs
+
+```yaml
+core_stack: [Python, Bash, Node, C--, Linux, Docker]
+focus_areas: [Security Automation, Agentic Systems, AppSec, Hardware/IoT]
+motto: "automation is the key"
+offline_mode: "CTFs || soldering iron in hand || Abusing some unpaid AI Agent."
+```
+
+---
+
+[LinkedIn](https://linkedin.com/in/5h1vm) · [CrackBot](https://crackbot.in) · [GitLab](https://gitlab.com/5h1Vm) · [Email](mailto:contact5h1vm@gmail.com)
